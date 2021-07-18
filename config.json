@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "about_text": "Hii My Name is Aradhya Mishra I am a student and now I am trying to create a blog",
+    "blog_name": "let's code",
+    "fb_url": "https://facebook.com/codewitharadhya",
+    "gh_url": "https://github.com/codewitharadhya",
+    "gmail_password": "aradhya7518279485",
+    "gmail_user": "maradhya33@gmail.com",
+    "local_sever": "True",
+    "local_uri": "mysql://root:@localhost/codewitharadhya",
+    "no_of_posts":2,
+    "prod_uri": "mysql://root:@localhost/codewitharadhya",
+    "tag_line": "A Blog by Programmers",
+    "tw_url": "https://twitter.com/codewitharadhya",
+    "login_img":"1login.svg",
+    "admin_user":"aradhya",
+    "admin_password":"maradhya123",
+    "upload_location":"C:\\Users\\91751\\PycharmProjects\\blog\\static"
+
+  }
+}
